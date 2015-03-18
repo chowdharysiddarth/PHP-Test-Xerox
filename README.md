@@ -6,7 +6,7 @@ How to Execute This Script
 
 To Execute this script 
 
-</path/to/php/compiler> init.php <username> <password> <path/to/repository> <contributor name>
+path_to_php_compiler init.php username password path_to_repository contributor-name
 
 Pass the parameters in the order specified
 
