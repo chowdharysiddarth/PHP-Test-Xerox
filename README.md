@@ -11,7 +11,9 @@ path_to_php_compiler init.php username password path_to_repository contributor-n
 Pass the parameters in the order specified
 
 Ex : 
+----
 1. php init.php username password https://github.com/chowdharysiddarth/Some-Repository-PHP siddarthchowdhary
+
 2. php init.php username password https://bitbucket.org/testsc123/first siddarthchowdhary
 
 
