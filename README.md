@@ -8,7 +8,7 @@ To Execute this script
 
 path_to_php_compiler init.php username password path_to_repository contributor-name
 
-Pass the parameters in the order specified
+IMPORTANT : Pass the parameters in the order specified
 
 Ex : 
 ----
