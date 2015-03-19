@@ -10,10 +10,13 @@ path_to_php_compiler init.php username password path_to_repository contributor-n
 
 IMPORTANT : Pass the parameters (4) in the order specified.
 
-first parameter is the user name
-second parameter is password
-third is the repository url
-and fourth is the contributor name
+1. first parameter is the user name
+
+2. second is password
+
+3. third is the repository url
+
+4. fourth is the contributor name
 
 no -u and -p tag are required explicitly [handled in code]
 
