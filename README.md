@@ -10,9 +10,19 @@ path_to_php_compiler init.php username password path_to_repository contributor-n
 
 IMPORTANT : Pass the parameters in the order specified
 
+first parameter is the user name
+second parameter is password
+third is the repository url
+and fourth is the contributor name
+
+no -u and -p tag are required explicitly [handled in code]
+
+NOTE : Make sure the parameters are in the order and are correct.
+
+
 Ex : 
 ----
-1. php init.php username password https://github.com/chowdharysiddarth/Some-Repository-PHP siddarthchowdhary
+1. php init.php username password https://github.com/chowdharysiddarth/PHP-Test-Xerox siddarthchowdhary
 
 2. php init.php username password https://bitbucket.org/testsc123/first siddarthchowdhary
 
